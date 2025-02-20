@@ -1,12 +1,44 @@
 {
   "number": "57",
-  "title": "",
+  "title": "Vivifica-nos Senhor",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Deus presente está conosco.",
+        "Pronto todos a salvar;",
+        "Sobre as almas sequiosas,",
+        "Quer Sua bênção derramar."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Manda, ó manda as ricas chuvas",
+        "Da Tua bênção, Salvador!",
+        "Imploramos! Esperamos!",
+        "Viviflca-nos, Senhor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis a Ti, Senhor, erguemos",
+        "Nossos pobres corações;",
+        "Na Tua grande e rica graça,",
+        "Ouve as nossas petições!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Torna a nossa fé mais viva,",
+        "Mais ardente o nosso amor;",
+        "Enche-nos de santo zelo,",
+        "De coragem e fervor."
+      ]
     }
   ],
-  "author": "",
+  "author": "H.M.W H. Maxwell Wrigth",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,44 @@
 {
   "number": "55",
-  "title": "",
+  "title": "Mais Perto da Tua Cruz",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Meu Senhor, sou Teu - Tua voz ouvi",
+        "A chamar-me, com amor;",
+        "Mais, de Ti, mais perto eu quero estar,",
+        "Ó bendito Salvador!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mais perto, perto da Tua cruz",
+        "Quero estar, ó Salvador!",
+        "Mais perto, perto, perto da Tua cruz",
+        "Leva-me, ó meu Senhor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A seguir-Te só, me consagro eu,",
+        "Constrangido pelo amor,",
+        "E, alegre, já me declaro Teu,",
+        "P’ra servir-Te a Ti, Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que pura e santa delicie é,",
+        "Aos Teus santos pés me achar,",
+        "E com viva e reverente fé,",
+        "Com meu Salvador falar."
+      ]
     }
   ],
-  "author": "",
+  "author": "H.M.W H. Maxwell Wrigth",
   "observation": "Pode ser que tenha outro co-autor"
 }
