@@ -1,0 +1,56 @@
+{
+  "number": "23",
+  "title": "Glória a Jesus",
+  "data": [
+    {
+      "type": "verse",
+      "lines": [
+        "Cantam os santos com fervor,",
+        "A quem por mim foi imolado,",
+        "Na cruz, sofrendo o meu pecado."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glória a Jesus!",
+        "Glória a Jesus!",
+        "Glória a Jesus, o Salvador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus é o Justificador",
+        "De quem crer no Seu Enviado",
+        "Sim, no Seu Filho mui amado."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do Seu Pai recebeu louvor,",
+        "E com poder foi exaltado,",
+        "Por isso é glorificado."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do 'sangue purificador',",
+        "Eu quero sempre ter lembrança,",
+        "E nEle ter mais confiança."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por nós, na cruz, sofreu a dor,",
+        "Com sangue fomos nós comprados,",
+        "E do pecado resgatados."
+      ]
+    }
+  ],
+  "author": "P.L.M Paulo Leivas Macalão",
+  "observation": "Pode ser que tenha outro co-autor"
+}

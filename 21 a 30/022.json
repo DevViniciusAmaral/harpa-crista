@@ -1,0 +1,53 @@
+{
+  "number": "22",
+  "title": "Ceia Do Senhor",
+  "data": [
+    {
+      "type": "verse",
+      "lines": [
+        "Em nossa alma nós tomamos.",
+        "O Teu corpo, ó Jesus!",
+        "Como oferta voluntária,",
+        "Que nos deste lá na cruz."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Como pão do céu desceste,",
+        "Vamos a Ti receber;",
+        "Pois unidos ao Teu corpo,",
+        "Nós queremos, sim, viver."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em figura, o Teu sangue",
+        "Nós bebemos, ó Senhor,",
+        "Pois só nEle há virtude",
+        "P'ra salvar o pecador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, concede à Tua Igreja",
+        "O perdão do Teu amor,",
+        "Para que nos dois emblemas,",
+        "Contemplemos-Te, Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Senhor, por Teu Espírito",
+        "Em nós vem já residir,",
+        "Pra Teu corpo e Teu sangue",
+        "Nós podermos discernir."
+      ]
+    }
+  ],
+  "author": "J.B.C José B. Cavalcante",
+  "observation": "Pode ser que tenha outro co-autor"
+}
