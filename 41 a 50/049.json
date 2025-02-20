@@ -1,0 +1,43 @@
+{
+  "number": "49",
+  "title": "Aleluia! Já Creio",
+  "data": [
+    {
+      "type": "verse",
+      "lines": [
+        "Deus tem prometido a salvação dar.",
+        "A quem em Seu Filho Jesus confiar."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aleluia! Já creio em Cr!sto Jesus.",
+        "E salvo já estou, pelo sangue da cruz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi tal Seu amor, que me substituiu,",
+        "E sobre o Calvário, minh’alma remiu!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não posso jamais desse amor duvidar;",
+        "Não posso senão aos Seus pés me prostrar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, quando, na glória, eu vir meu bom Rei,",
+        "Com todos os santos ali cantarei."
+      ]
+    }
+  ],
+  "author": "H.M.W H. Maxwell Wrigth",
+  "observation": "Pode ser que tenha outro co-autor"
+}
