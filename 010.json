@@ -1,0 +1,53 @@
+{
+  "number": "10",
+  "title": "Eu Te Louvo",
+  "data": [
+    {
+      "type": "verse",
+      "lines": [
+        "Glória a Deus, o Pai Eterno,",
+        "Cujo trono é os céus;",
+        "O universo Lhe pertence.",
+        "Glória, sim, ao nosso Deus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Eu te louvo! Eu te louvo!",
+        "Oh! Jesus, meu Salvador!",
+        "Dai-Lhe glórias, ó remidos!",
+        "Pois Seu sangue limpa o pecador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glória ao Filho, mui amado,",
+        "Que merece o louvor.",
+        "Demos glória ao Seu nome,",
+        "Ao Cordeiro, ao Redentor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Demos nós, ao Santo Espírito,",
+        "Mil louvores por Seu dom;",
+        "Por Sua graça tão imensa,",
+        "Glórias Ele, Ele é bom!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glória, glória ao Pai bendito,",
+        "Glória, glória a Jesus;",
+        "Glória dai ao Santo Espírito.",
+        "Ao Deus trino, nossa luz."
+      ]
+    }
+  ],
+  "author": "A.N Adriano Nobbre",
+  "observation": "Pode ser que tenha outro co-autor"
+}
