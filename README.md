@@ -12,6 +12,7 @@
     }
   ],
   "author": "",
-  "observation": ""
+  "observation": "",
+  "translator": ""
 }
 ```
