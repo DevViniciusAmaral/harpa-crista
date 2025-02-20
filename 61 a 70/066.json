@@ -1,12 +1,35 @@
 {
   "number": "66",
-  "title": "",
+  "title": "Pronto a Salvar",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Todo o que crê no Filho de Deus,",
+        "Que, p'ra nos remir, desceu dos céus;",
+        "Todo o que, contrito, a Deus se chegar,",
+        "Jesus está pronto, agora, a salvar."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sim, Jesus te chama, ó meu Irmão!",
+        "A ti Ele oferece pleno perdão;",
+        "Seu sangue verteu para te resgatar,",
+        "E Ele é quem quer e pode salvar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quem, arrependido, busca perdão,",
+        "Abrindo a Jesus o seu coração,",
+        "A paz hoje mesmo pode gozar,",
+        "Pois Ele está pronto, agora, a salvar."
+      ]
     }
   ],
-  "author": "",
+  "author": "H.M.W H. Maxwell Wrigth",
   "observation": "Pode ser que tenha outro co-autor"
 }

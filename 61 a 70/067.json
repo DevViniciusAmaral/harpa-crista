@@ -1,12 +1,44 @@
 {
   "number": "67",
-  "title": "",
+  "title": "Quem Quer ir Com Cristo?",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Quem quer hoje mesmo a Jesus seguir?",
+        "Seu pendão alçando, ao combate ir?",
+        "Quem quer, humilhado, sempre O servir,",
+        "E obedecê-Lo. Seu querer cumprir?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Quem quer ir com Cristo, quem responderá,",
+        "Presto, sem demora, 'eu, Senhor, irei'?",
+        "Onde for o Mestre, tu também irás?",
+        "Quem dirá agora: 'eu Te seguirei'?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quem seguir a Cristo quer, com mui amor,",
+        "Dando-Lhe tributo, dando-Lhe louvor;",
+        "De Sua nobre causa, sendo defensor,",
+        "E na santa vinha, ser trabalhador?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queres tu segui-Lo, sem vacilação,",
+        "E fugir dos braços da vil tentação?",
+        "Sempre confiando na Sua proteção,",
+        "Por fé desfrutando Sua salvação."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }
