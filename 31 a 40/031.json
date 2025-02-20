@@ -1,0 +1,53 @@
+{
+  "number": "31",
+  "title": "Glória ao Meu Jesus",
+  "data": [
+    {
+      "type": "verse",
+      "lines": [
+        "Por mim sofreu o Salvador,",
+        "Glória! Glória ao meu Jesus!",
+        "Louvai, comigo, ao Redentor!",
+        "Glória! Glória ao meu Jesus!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus! Jesus! Ó Salvador;",
+        "É doce o nome do Senhor;",
+        "Abrasa -me com santo amor;",
+        "Glória! Glória ao meu Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C'oa meus pecados carregou,",
+        "Glória! Glória ao meu Jesus!",
+        "E sobre a cruz me resgatou.",
+        "Glória! Glória ao meu Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu sei que perdoado estou,",
+        "Glória! Glória ao meu Jesus!",
+        "E, com certeza, ao céu eu vou!",
+        "Glória! Glória ao meu Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, quando a guerra aqui findar,",
+        "Glória! Glória ao meu Jesus!",
+        "No céu, melhor, eu vou cantar,",
+        "Glória! Glória ao meu Jesus!"
+      ]
+    }
+  ],
+  "author": "H.M.W H. Maxwell Wrigth",
+  "observation": "Pode ser que tenha outro co-autor"
+}
