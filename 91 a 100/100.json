@@ -1,12 +1,53 @@
 {
   "number": 100,
-  "title": "",
+  "title": "O Bom Consolador",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Quem quer ir, por Jesus, a nova proclamar",
+        "Nos antros de aflição, misérias, mal e dor?",
+        "Cristãos, anunciai que o Pai quer derramar",
+        "O bom Consolador."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O bom Consolador, o bom Consolador",
+        "Que Deus nos prometeu, ao mundo Já desceu;",
+        "Ó Ide proclamar, que Deus quer derramar",
+        "O bom Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No mundo de horror, a luz, enfim, brilhou",
+        "Que veio dissipar as sombras de terror;",
+        "Também o nosso Pai, aos Seus fiéis mandou",
+        "O bom Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É o Consolador que traz a salvação",
+        "Aos que aprisionou o grande tentador:",
+        "Dizei que veio já, com todo o coração,",
+        "O bom Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Grande eterno amor! Oh! Gozo divina!!",
+        "Que tenho em proclamar o dom de meu Senhor",
+        "Pois mora já em mim, poder celestial,",
+        "O bom Consolador."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

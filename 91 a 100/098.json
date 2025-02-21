@@ -1,12 +1,54 @@
 {
   "number": 98,
-  "title": "",
+  "title": "Estarás Vigiando?",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Estarás tu vigiando, quando Jesus Vier?",
+        "Ansioso, esperando, quando Jesus vier?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh! Que noite! Solene noite!",
+        "Brilhará a tua luz, quando Jesus vier?",
+        "Ó, sê pronto, ó, sê pronto!",
+        "Ó, sê pronto, quando Jesus vier.",
+        "Ó, sê pronto, ó sê pronto!",
+        "Ó sê pronto, quando Jesus vier!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvirás tu o bem-vindo, quando Jesus vier?",
+        "Darás o brado sorrindo, quando Jesus vier?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só esperas preparar-te, quando Jesus vier?",
+        "Qual será a tua parte, quando Jesus vier?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Estarás tu jubiloso, quando Jesus vier?",
+        "Triste ou esperançoso quando Jesus vier?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que culto glorioso, quando Jesus vier!",
+        "Cheio de sublime gozo, quando Jesus vier!"
+      ]
     }
   ],
-  "author": "",
+  "author": "A.S Almeida Sobrinho",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,53 @@
 {
   "number": 92,
-  "title": "",
+  "title": "O Bondoso Salvador",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Meu bondoso Salvador",
+        "Meus pecados carregou;",
+        "Foi Jesus, o Redentor,",
+        "Que da morte me livrou."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh! Que Salvador eu tenho!",
+        "O Seu sangue me remiu,",
+        "Quando, sobre o rude lenho,",
+        "Meu castigo Ele cumpriu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que amor do meu Jesus,",
+        "Que em homem se encarnou,",
+        "Pra sofrer por mim, na cruz;",
+        "E meus crimes perdoou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não há outro nome igual",
+        "Ao bom nome de Jesus,",
+        "Porque livra-me do mal",
+        "E à glória me conduz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Jesus, alegre, vou",
+        "Sua graça publicar,",
+        "Porque Ele me chamou",
+        "Na Sua vinha a trabalhar."
+      ]
     }
   ],
-  "author": "",
+  "author": "S.N Samuel Nyström",
   "observation": "Pode ser que tenha outro co-autor"
 }

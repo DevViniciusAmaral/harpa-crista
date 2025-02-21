@@ -1,12 +1,51 @@
 {
   "number": 91,
-  "title": "",
+  "title": "Nívea Luz",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Jesus, eu almejo a pureza do céu,",
+        "Tua linda presença no coração meu",
+        "Os ídolos quebro, me toma Jesus;",
+        "Ó dá-me a pureza da nívea luz."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nívea luz, a nívea luz,",
+        "Ó dá-me a pureza da nívea luz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, me acode enquanto lidar,",
+        "A colocar tudo no santo altar;",
+        "A Ti me entrego; nas chamas me pus;",
+        "Ó dá-me a pureza da nívea luz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, com instância, humilde, roguei",
+        "Que o sangue perfeito pureza me dê;",
+        "Me lava na fonte aberta na cruz",
+        "Ó dá-me a pureza da nívea luz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, neste instante, espero a mão",
+        "Que há de criar-me o bom coração;",
+        "Aqueles que o Espírito pedem de Deus,",
+        "Dás sempre a pureza da nívea luz!"
+      ]
     }
   ],
-  "author": "",
+  "author": "J.H.N Justus H. Nelson",
   "observation": "Pode ser que tenha outro co-autor"
 }
