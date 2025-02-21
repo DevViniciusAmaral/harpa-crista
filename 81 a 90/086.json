@@ -1,12 +1,44 @@
 {
   "number": 86,
-  "title": "",
+  "title": "Satisfeito com Cristo",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Oh! 'stou satisfeito com Cristo,",
+        "Porque Ele minh’alma salvou;",
+        "E sobre o madeiro, sofrendo,",
+        "O Seu grande amor revelou."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh! 'stou satisfeito com Cristo,",
+        "Confesso-O por meu Salvador:",
+        "Embora de nada ser digno,",
+        "Desfruto do Seu grande amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! 'stou satisfeito com Cristo,",
+        "De triste, tornei-me feliz,",
+        "Ouvindo o Seu santo Evangelho,",
+        "E crendo no que Ele me diz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! 'stou satisfeito com Cristo,",
+        "E sei que vai logo voltar;",
+        "Virá com poder glorioso,",
+        "A fim de Seu povo levar."
+      ]
     }
   ],
-  "author": "",
+  "author": "Desconhecido",
   "observation": "Pode ser que tenha outro co-autor"
 }

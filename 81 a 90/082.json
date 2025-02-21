@@ -1,12 +1,53 @@
 {
   "number": 82,
-  "title": "",
+  "title": "Um Meigo Salvador",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Um Salvador meigo eu tenho,",
+        "A quem antes não conheci;",
+        "Agora, alegre, eu venho",
+        "Contando a todos que O vi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Todos, todos verão,",
+        "Todos, todos verão;",
+        "Jesus glorioso e bondoso,",
+        "Sim, todos, todos verão."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De todos, é o mais formoso,",
+        "Imagem da glória de Deus;",
+        "Tornou-me alegre e ditoso,",
+        "E herdeiro da glória dos céus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se os ímpios me armarem cilada.",
+        "Na senda que hei de trilhar,",
+        "Jesus me dará boa espada,",
+        "E os laços eu hei de cortar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A vida e o amor Tu me deste,",
+        "Porque Tu amaste a mim,",
+        "Tornou, sim, a glória celeste,",
+        "Minha sorte bendita, enfim."
+      ]
     }
   ],
-  "author": "",
+  "author": "S.N Samuel Nyström",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,64 @@
 {
   "number": 84,
-  "title": "",
+  "title": "O Grande “Eu sou”",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Não perturbeis o coração,",
+        "Porque Eu sempre sou fie!;",
+        "Eu fecho a boca do 'leão',",
+        "Na cova estou com Daniel."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sou Eu aquele, o grande “EU SOU”",
+        "E, onde estais, também estou;",
+        "Não disse, Eu, há muito já:",
+        "'Pedi, pedi... dar-se-voa-á'?",
+        "Pedi com fé e com fervor",
+        "E vos darei o Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quem tem a fé de Abraão,",
+        "O mundo sempre há de vencer;",
+        "Quem quer ter firme o coração.",
+        "Precisa igualmente crer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um terremoto e vento, após.",
+        "Do céu, um fogo e mui furor.",
+        "Ouviu Elias a minha voz,",
+        "Voz do Eterno, voz de amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um certo dia, Estêvão viu",
+        "O céu aberto e viu-me a mim;",
+        "Apedrejado, sucumbiu,",
+        "Mas foi fiel, até o fim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Firmado em Mim, Rocha Eternal,",
+        "Assim jamais o crente cai;",
+        "Buscai o dom celestial,",
+        "Que vem da casa de Meu Pai."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.R José Rodrigues",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,44 @@
 {
   "number": 85,
-  "title": "",
+  "title": "Deixai Entrar o Espírito de Deus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Do Santo Espírito, está escrito,",
+        "Que sois o templo, sim, templo de Deus;",
+        "Já recebestes, depois que crestes,",
+        "O dom glorioso descido do céu?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Deixai entrar, para morar,",
+        "O Espírito de Deus;",
+        "Dom prometido, já concedido,",
+        "Bendito dom dos altos céus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O que vos salva, também vos lava,",
+        "P'ra vossa alma de manchas limpar;",
+        "Purificados de vis pecados,",
+        "O Santo Espírito já pode entrar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó peregrinos, vede o destino,",
+        "Entrai na terra de leite e mel,",
+        "Santificados, por Deus chamados,",
+        "Sereis guiados, por guia fiel."
+      ]
     }
   ],
-  "author": "",
+  "author": "F.V Frida Vingren",
   "observation": "Pode ser que tenha outro co-autor"
 }

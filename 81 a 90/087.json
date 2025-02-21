@@ -1,12 +1,71 @@
 {
   "number": 87,
-  "title": "",
+  "title": "Meu Testemunho",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Justificado estou;",
+        "Cristo Jesus me livrou;",
+        "Ele é meu Mediador,",
+        "Também, meu bom Salvador."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, sou Teu, e Tu és meu;",
+        "Me guiarás para o céu;",
+        "Com graça e paz me satisfaz",
+        "Cristo, meu Mestre veraz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santificado fiquei,",
+        "Quando a Ele roguei;",
+        "Ele me disse: tomai;",
+        "De minha graça usai."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fui redimido, também,",
+        "Obra do meu Sumo Bem;",
+        "Tudo de graça ganhei;",
+        "Nada por obras da lei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele a promessa me deu,",
+        "Do Guia santo do céu;",
+        "Também me disse: ficai,",
+        "E o batismo esperai."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando a Ele busquei,",
+        "E batizado fiquei,",
+        "Línguas estranhas falei,",
+        "E meu Senhor exaltei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agora, vou trabalhar,",
+        "E muitas almas ganhar;",
+        "Essas que Ele salvou",
+        "Quando na cruz expirou."
+      ]
     }
   ],
-  "author": "",
+  "author": "S.N Samuel Nyström",
   "observation": "Pode ser que tenha outro co-autor"
 }
