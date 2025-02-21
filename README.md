@@ -3,7 +3,7 @@
 ## Template
 ```JSON
 {
-  "number": "",
+  "number": 0,
   "title": "",
   "data": [
     {
