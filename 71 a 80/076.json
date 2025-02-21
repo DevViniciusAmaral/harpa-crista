@@ -1,12 +1,42 @@
 {
   "number": 76,
-  "title": "",
+  "title": "Vem, ó Pródigo",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Vem, ó pródigo, vem sem tardar, te chama Deus,",
+        "Ouve-O chamando, sim, chamando a ti;",
+        "Tu, que vagas errante escuta a voz dos céus,",
+        "Ó escuta a voz de amor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Deus espera por ti. perdido, pródigo, vem;",
+        "Deus espera por ti, perdido, pródigo, vem"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com paciência e ternura te chama o Senhor,",
+        "Ouve-O chamando, sim, chamando a ti;",
+        "Vem enquanto te chama o meigo Salvador,",
+        "Ó escuta a voz de amor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lá na casa do Pai, abundância há de pão;",
+        "Ouve-O chamando, sim, chamando a ti;",
+        "Já está pronta a mesa com toda a provisão,",
+        "Ó escuta a voz de amor!"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

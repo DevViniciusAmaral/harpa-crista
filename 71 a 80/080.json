@@ -1,12 +1,53 @@
 {
   "number": 80,
-  "title": "",
+  "title": "Cristo Te Chama",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Cristo te chama, a ti. pecador,",
+        "Te chama a ti, com voz de amor;",
+        "Deixa os pecados, e vem ao Senhor.",
+        "Cristo te chama a til"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Cristo te chama, te chama a ti!",
+        "Cristo te chama, ó vem pecador!",
+        "Cristo te chama com voz de amor.",
+        "Cristo te chama a ti!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deixa as sendas do mundo d’horror,",
+        "Vem a Jesus, vem com amor;",
+        "Cristo te salva, ó vem, pecador;",
+        "Cristo te chama a ti!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo glorioso virá com poder;",
+        "Pronto estás para ascender?",
+        "Só por Seu sangue tu podes vencer.",
+        "Cristo te chama a ti!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A compassiva voz do Salvador,",
+        "Chama-te já com santo amor;",
+        "Vem para a fonte, á vem pecador,",
+        "Cristo te chama a ti!"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

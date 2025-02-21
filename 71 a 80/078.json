@@ -1,12 +1,53 @@
 {
   "number": 78,
-  "title": "",
+  "title": "Meu Forte Redentor",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Vagando eu em grande escuridão,",
+        "O Salvador me encontrou,",
+        "Perdido, mesmo, sem ter salvação;",
+        "A minh’alma Seu sangue lavou."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus é o meu forte Redentor;",
+        "Ele é meu grande Salvador,",
+        "Que me libertou na cruz, com mui amor,",
+        "Cristo é meu Rei e meu Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nos meus pecados e vil turbação,",
+        "A luz mostrou-me, o Senhor;",
+        "E fez-me ver que ali na perdição",
+        "Me alcançava Seu grande amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu gozo desta grande salvação,",
+        "Meu nome já no céu está;",
+        "E recebi a divina! unção,",
+        "Que aos fiéis ainda Deus dá."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Num dia alegre, Cristo voltará,",
+        "E para o céu eu subirei;",
+        "Meu corpo transformado, então será,",
+        "Qual o de Cristo Jesus. o meu Rei."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }
