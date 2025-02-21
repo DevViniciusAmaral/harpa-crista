@@ -1,12 +1,53 @@
 {
   "number": 147,
-  "title": "",
+  "title": "Servir a Jesus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Quero eu servir-Te, ó meu Rei Jesus,",
+        "E contigo sempre caminhar na luz,",
+        "Tendo com o povo de Deus comunhão",
+        "E dos meus pecados purificação."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sim, ó meu Senhor;",
+        "Quero seguir-Te, ó Deus de amor.",
+        "Sempre Te servindo,",
+        "E também dando a Ti louvor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No Teu bom serviço tenho eu prazer.",
+        "Nele muita graça eu vou receber;",
+        "Sempre falarei assim do Teu amor.",
+        "E Te glorificarei, meu Salvador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desça Tua graça sobre mim, Senhor,",
+        "Para trabalhar com mais e mais fervor,",
+        "Dá-me entendimento e veraz saber,",
+        "Para alegre, eu fazer o Teu querer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só em Ti confio, meu Senhor e Rei;",
+        "Só em Ti vitória eu alcançarei.",
+        "E contigo quero sempre aqui viver,",
+        "'Té que p'ra Sião, me venhas receber."
+      ]
     }
   ],
-  "author": "",
+  "author": "M.A.N Manuel Augusto das Neves",
   "observation": "Pode ser que tenha outro co-autor"
 }

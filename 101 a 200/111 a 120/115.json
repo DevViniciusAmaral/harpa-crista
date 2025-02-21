@@ -1,12 +1,48 @@
 {
   "number": 115,
-  "title": "",
+  "title": "Trabalhai e Orai",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Eu quero trabalhar pra meu Senhor,",
+        "Levando a Palavra com amor;",
+        "Quero eu cantar e orar,",
+        "E ocupado quero estar,",
+        "Sim, na vinha do Senhor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Trabalhai e orai.",
+        "Na seara e na vinha do Senhor;",
+        "Meu desejo é orar,",
+        "E ocupado quero estar",
+        "Sim, na vinha do Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quero, cada dia, trabalhar;",
+        "Escravos do pecado libertar;",
+        "Conduzi-los a Jesus,",
+        "Nosso guia, nossa luz,",
+        "Sim, na vinha do Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quero ser obreiro de valor,",
+        "Confiando no poder do Salvador;",
+        "Se quiseres trabalhar,",
+        "Acharás também lugar,",
+        "Sim, na vinha do Senhor."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

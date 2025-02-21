@@ -1,12 +1,57 @@
 {
   "number": 128,
-  "title": "",
+  "title": "Entrega o Teu Coração",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ó alma triste, perdida,",
+        "Que vagas sem ter direção!",
+        "Aceita de Deus a vida,",
+        "Entrega teu coração!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dá, hoje, a Cristo,",
+        "Teu coração, teu coração.",
+        "Pois nEle acharás a paz, o perdão,",
+        "Entrega teu coração.",
+        "Dá, hoje, a Cristo,",
+        "Teu coração, teu coração.",
+        "Pois nEle acharia a paz, o perdão,",
+        "Entrega teu coração."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus não quer teu dinheiro;",
+        "De graça te dá salvação!",
+        "E gozo mui verdadeiro:",
+        "Entrega teu coração!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Cristo ressuscitado",
+        "Aceita o vero perdão,",
+        "Se queres ser libertado,",
+        "Entrega teu coração."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agora é o tempo aceitável",
+        "O dia em que há salvação.",
+        "A Cristo, meigo, adorável",
+        "Entrega teu coração."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,53 @@
 {
   "number": 172,
-  "title": "",
+  "title": "Ó Vem Te Entregar",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ó pecador, cansado e abatido,",
+        "que neste mundo vagas, sem consolação!",
+        "Se queres ser, de graça, revestido,",
+        "Aceita Cristo, e Sua salvação."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ó vem te entregar",
+        "Ao grande Salvador,",
+        "Que veio te salvar,",
+        "E te espera, cheio de amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó pecador, se estás desanimado,",
+        "Porque o mal domina todo o teu ser,",
+        "Ó crê em Cristo, o crucificado,",
+        "E contra o vício tu terás poder."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó pecador, por que não te entregas",
+        "A Jesus Cristo, o bondoso Salvador?",
+        "Que, vindo a morte, grato te carrega",
+        "Ao Paraíso, ao país de amor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se comoção tu sentes em tu’alma,",
+        "E queres hoje receber a salvação,",
+        "Aceita Cristo, com fá e com calma,",
+        "Vem te entregar, de todo o coração."
+      ]
     }
   ],
-  "author": "",
+  "author": "A.S Almeida Sobrinho",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,53 @@
 {
   "number": 163,
-  "title": "",
+  "title": "Cristo Morreu Por Mim",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Do Calvário, pela senda,",
+        "O Senhor Jesus subiu,",
+        "E na cruz, em dor horrenda,",
+        "Obra de amor cumpriu!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sobre a cruz, sobre a cruz,",
+        "Cristo Jesus morreu por mim;",
+        "Sobre a cruz, sobre a cruz,",
+        "Cristo Jesus morreu por ti."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que obra gloriosa",
+        "Foi pra Deus a de Jesus!",
+        "Sua morte tão penosa",
+        "Fez raiar, do céu, a luz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nesta obra hoje crendo,",
+        "Tenho vida e prazer;",
+        "Pela fé, estou revendo",
+        "O Senhor, por mim sofrer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pecador na cruz remirá,",
+        "De Jesus a morte atroz.",
+        "Pois o teu pecado tira,",
+        "Se ouvires Sua voz."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

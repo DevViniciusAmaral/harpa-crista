@@ -1,12 +1,44 @@
 {
   "number": 189,
-  "title": "",
+  "title": "Glória ao Salvador",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Chegado à cruz do meu bom Senhor,",
+        "Prostrado aos pés do Redentor,",
+        "Ele ouviu todo meu clamor",
+        "Glória ao Salvador."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glória ao Salvador!",
+        "Glória ao Salvador",
+        "Agora sei que Ele me salvou",
+        "Glória ao Salvador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que maravilha! Jesus me amou,",
+        "Tudo de graça me perdoou;",
+        "Quebrou meus laços e me livrou;",
+        "Glória ao Salvador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Junto à cruz, inda há lugar,",
+        "Vem, ó aflito, sem demorar,",
+        "Cristo está pronto pra te salvar,",
+        "Vinde ao Salvador!"
+      ]
     }
   ],
-  "author": "",
+  "author": "H.M.W H. Maxwell Wrigth",
   "observation": "Pode ser que tenha outro co-autor"
 }

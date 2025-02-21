@@ -1,12 +1,44 @@
 {
   "number": 153,
-  "title": "",
+  "title": "Soldados de Cristo",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Soldados de Cristo que entrastes na lida.",
+        "Lutai sem desmaio, lutai com valor;",
+        "E o inimigo levai de vencida,",
+        "Dizendo que Cristo é nosso Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soldados de Cristo, marchei sempre avante,",
+        "Levando à destra as armas da luz;",
+        "As almas perdidas buscai triunfantes",
+        "E prestes, levai-as a Cristo Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peleja, ó crente, a santa peleja,",
+        "Prossegue avante por Cristo Jesus;",
+        "E sê mui valente; na frente estejas,",
+        "Dizendo que Cristo morreu numa cruz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A aurora se acerca do dia faustoso,",
+        "Em que prêmio terão a fé e o valor;",
+        "E nele, Jesus, galardão grandioso,",
+        "Dará a qualquer que sair vencedor."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

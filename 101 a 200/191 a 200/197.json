@@ -1,12 +1,61 @@
 {
   "number": 197,
-  "title": "",
+  "title": "O Lar da Glória",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        No céu foi Jesus preparar-nos lugar.
+Na glória.
+E breve, mui breve Ele há de voltar,
+Em glória.
+
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        Eu sal, eu sei, eu tenho um lar na glória!
+Oh! eu sei, eu sei, um lar no céu!
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Levanta os olhos e conta o que há.
+Na glória.
+De pedras preciosas o lar brilha lá,
+Em glória.
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Ainda não vi, mas os anjos estão,
+Na glória.
+E ruas cobertas de ouro serão,
+Na glória.
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Um dia, feliz para o céu seguirei,
+P’ra.glória,
+Com Cristo a reinar, eu depois voltarei,
+Em glória.
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Amigos espero no céu encontrar,
+Na glória.
+E juntos havemos de sempre ficar,
+Na glória.
+      ]
     }
   ],
-  "author": "",
+  "author": "T.H Tora Hedlund",
   "observation": "Pode ser que tenha outro co-autor"
 }

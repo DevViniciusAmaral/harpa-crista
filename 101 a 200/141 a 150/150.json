@@ -1,12 +1,44 @@
 {
   "number": 150,
-  "title": "",
+  "title": "Para Casamentos",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Cheios de contentamento",
+        "Estamos, Senhor amado,",
+        "Porque é o casamento",
+        "Um Teu bom mandado."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aos noivos dá proteção,",
+        "Concedendo o Teu amor,",
+        "Para eles em união,",
+        "Viverem p’ra Teu louvor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faze viverem guardados",
+        "Na Tua santa doutrina",
+        "E só andarem guiados",
+        "Por Tua mão divina."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Confirma esta aliança,",
+        "Nós Te pedimos ainda,",
+        "Enchendo-os da esperança",
+        "Da Tua santa vinda."
+      ]
     }
   ],
-  "author": "",
+  "author": "D.L Domingos Lins",
   "observation": "Pode ser que tenha outro co-autor"
 }

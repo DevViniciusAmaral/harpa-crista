@@ -1,12 +1,47 @@
 {
   "number": 101,
-  "title": "",
+  "title": "A Unção Real",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Qual órfãos não nos deixou o Senhor,",
+        "Mas como nos prometeu,",
+        "Mandou-nos o bom Consolador,",
+        "Que nos encheu do poder do céu,",
+        "Do Seu divinal amor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Recebestes já a unção real",
+        "Do Espírito Consolador?",
+        "Deus quer te usar para outros salvar,",
+        "Se recebes o Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O crentes, Deus vos convida também",
+        "A vir buscar Seu poder;",
+        "E para todo, que humilde vem",
+        "O Santo Hóspede receber:",
+        "Orando se obtém."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um Pentecoste, Jesus prometeu,",
+        "A cada um coração;",
+        "Prostrados, roguemos, pois a Deus,",
+        "Com fé. em potente oração,",
+        "Pra viro poder do céu."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

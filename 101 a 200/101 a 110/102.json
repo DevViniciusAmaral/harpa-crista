@@ -1,12 +1,53 @@
 {
   "number": 102,
-  "title": "",
+  "title": "Crê na Promessa",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Hoje, Jesus pode te salvar;",
+        "Somente crê na promessa;",
+        "Dos teus pecados purificar;",
+        "Somente crê na promessa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Crê na promessa de Jesus,",
+        "Somente crê na promessa;",
+        "Bênção dos céus, vida à flux!",
+        "Somente crê na promessa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do alto, Jesus dará poder;",
+        "Somente crê na promessa;",
+        "Na Sua alegria irás vencer;",
+        "Somente crê na promessa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Sua graça vem receber;",
+        "Somente crê na promessa;",
+        "Tudo Jesus quer te conceder.",
+        "Somente crê na promessa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem recebera paz do Senhor,",
+        "Somente crê na promessa;",
+        "Cheio serás do Consolador.",
+        "Somente crê na promessa."
+      ]
     }
   ],
-  "author": "",
+  "author": "A.S Almeida Sobrinho",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,44 @@
 {
   "number": 170,
-  "title": "",
+  "title": "Ao Calvário de Horror",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Como havia trevas no meu coração,",
+        "Quando Jesus Cristo me salvou;",
+        "Pela luz divina, com a Sua mão,",
+        "Todas as minhas trevas dissipou!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ao Calvário de horror, subiu Jesus,",
+        "Levando a cruz, levando a cruz;",
+        "Ao Calvário de horror, subiu Jesus,",
+        "Levando a minha cruz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vindo um perdido ao Senhor Jesus,",
+        "Achará o gozo divina!,",
+        "E na sua alma raiará á luz,",
+        "Luz que vem do céu, luz eternal!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É maravilhoso o amor de Deus,",
+        "Que mandou Seu Filho p'ra salvar",
+        "Todo o perdido pecador ou réu,",
+        "Que a Sua graça aceitar!"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

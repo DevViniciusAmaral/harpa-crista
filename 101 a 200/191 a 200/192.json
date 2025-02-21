@@ -1,12 +1,51 @@
 {
   "number": 192,
-  "title": "",
+  "title": "Pelo Sangue",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        Pelo mundo brilha a luz,
+Desde que morreu Jesus.
+Pendurado lá na cruz do Calvário!
+Os pecados carregou
+E de culpa nos livrou,
+Com o sangue que manou, no Calvário!
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        Pelo sangue, pelo sangue,
+Somos redimidos, sim
+Pelo sangue carmesim;
+Pelo sangue, pelo sangue.
+Pelo sangue de Jesus, no Calvário!
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Antes, tinha mui temor,
+Mas, agora, tenho amor,
+Pois compreendo o valor do Calvário;
+Eu vivi na perdição
+Mas achei a salvação
+Pela grande redenção: o Calvário!
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        És um grande pecador?
+Eis aqui Teu Salvador!
+Tema do bom pregador: o Calvário.
+O Cordeiro divinal
+Padeceu na cruz teu mal,
+E oferece graça tal, no Calvário.
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

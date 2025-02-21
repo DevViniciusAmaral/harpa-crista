@@ -1,12 +1,53 @@
 {
   "number": 127,
-  "title": "",
+  "title": "O Senhor da Ceifa Chama",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "O Senhor da ceifa está chamando:",
+        "'Quem quer ir por Mim a procurar",
+        "Almas que no mundo, vão chorando;",
+        "Sem da salvação participar?'"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fala Deus! Fala Deus!",
+        "Toca-me com brasa do altar;",
+        "Fala Deus! Fala Deus!",
+        "Sim, alegre, atendo ao Teu mandar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O profeta a Deus se aproximando,",
+        "Considera-se um pecador,",
+        "Mas, o fogo santo o queimando,",
+        "Torna-o útil para seu Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muitos são os que vão expirando",
+        "Sem ter esperança de ver Deus:",
+        "Vai depressa lhes anunciando,",
+        "Que Jesus os leva para os céus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Breve, os trabalhos serão findos,",
+        "Bênçãos vão os servos desfrutar;",
+        "E Jesus os saudará: 'Bem-vindos',",
+        "Esta glória espero alcançar."
+      ]
     }
   ],
-  "author": "",
+  "author": "O.N Otto Nelson",
   "observation": "Pode ser que tenha outro co-autor"
 }

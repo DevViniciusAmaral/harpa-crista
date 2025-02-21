@@ -1,12 +1,44 @@
 {
   "number": 143,
-  "title": "",
+  "title": "O Verdadeiro Amigo",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Tu és pra mim o verdadeiro amigo,",
+        "Só em Ti, meu Redentor, vou confiar,",
+        "Defende-me do mundo, do perigo;",
+        "Ansioso, eu Te quero encontrar."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vem levar me para perto",
+        "Do Teu grande e bondoso coração;",
+        "Sempre avante e bem certo,",
+        "Com Jesus, eu vou andando p'ra Sião."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem já, Senhor, com Tua graça imensa",
+        "Ajudar-me a levar a minha cruz,",
+        "Fazendo-me sentir real presença,",
+        "Do Consolador divino, ó Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, Tu és a minha esperança,",
+        "E contente eu desejo Te seguir;",
+        "A Ti orando, com perseverança,",
+        "Para que me guardes sempre de cair."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,52 @@
 {
   "number": 117,
-  "title": "",
+  "title": "O Senhor Salva a Todo o Pecador",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Aleluia! O Senhor Salva a todo pecador!",
+        "Salvação! Salvação!",
+        "Jesus Cristo tem poder para todo o mal vencer,",
+        "Salvação! Salvação!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Salvação e redenção!",
+        "Aleluia! Cristo já me amou e me salvou. ",
+        "Glória dou e aleluia, a Jesus que me salvou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu confio em Jeová, Ele santidade dá;",
+        "Salvação! Salvação!",
+        "Tenho paz e vivo já, Sua graça em mim está.",
+        "Salvação! Salvação!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Falarei sempre o que sei, exaltando o meu Rei,",
+        "Salvação! Salvação!",
+        "Pois Seu sangue já verteu, pra tornar-me filho Seu,",
+        "Salvação! Salvação!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantaremos, sempre ali, ao sairmos nós daqui;",
+        "Salvação! Salvação!",
+        "Exaltando o Salvador, louvaremos com fervor",
+        "Salvação! Salvação!"
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

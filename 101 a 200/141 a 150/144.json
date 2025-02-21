@@ -1,12 +1,54 @@
 {
   "number": 144,
-  "title": "",
+  "title": "Vem à Assembléia de Deus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "À Assembléia de Deus, vem comigo,",
+        "Ouvir a Palavra de Deus;",
+        "E terás a certeza, contigo,",
+        "Que Jesus é o caminho dos céus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ó vem, vem, vem, vem!",
+        "Vem à Assembléia e louvemos",
+        "Ao nosso bom Deus Redentor,",
+        "Pois maior alegria não temos,",
+        "Que fruir Seu imenso amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, irmão, à Assembléia dos Santos,",
+        "Sentir o poder do Senhor",
+        "E ali entoar lindos cantos",
+        "Exultando no Consolador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na Assembléia de Deus tu estejas",
+        "Humilde aos pés do Senhor:",
+        "Santidade convém à Igreja,",
+        "P'ra gozarmos celeste amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nós sentimos a santa presença",
+        "Do nosso querido Jesus;",
+        "Anulada foi tua sentença:",
+        "Deixa as trevas e vem para a luz."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

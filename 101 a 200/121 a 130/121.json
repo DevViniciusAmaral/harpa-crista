@@ -1,12 +1,53 @@
 {
   "number": 121,
-  "title": "",
+  "title": "Maravilhoso é Jesus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Maravilhoso é Jesus,",
+        "Da minha vida a luz,",
+        "Pois me salvando, me perdoando,",
+        "Para Sião me conduz."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Maravilhoso, sim, maravilhoso!",
+        "É Cristo, pois salvou-me a mim!",
+        "Maravilhoso e mui glorioso,",
+        "É Cristo, que vive em mim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nunca podia saber,",
+        "Qual é o grande prazer,",
+        "Dum que perdido, arrependido,",
+        "A graça vem receber."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele nas trevas me achou,",
+        "Eternamente me amou;",
+        "Vida abundante, gozo bastante.",
+        "Tenho por quem me salvou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo é tudo pra mim,",
+        "Também será para ti;",
+        "Vou caminhando, sempre O louvando,",
+        "Pois Ele salvou-me a mim!"
+      ]
     }
   ],
-  "author": "",
+  "author": "F.V Frida Vingren",
   "observation": "Pode ser que tenha outro co-autor"
 }

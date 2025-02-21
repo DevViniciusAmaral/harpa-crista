@@ -1,12 +1,53 @@
 {
   "number": 169,
-  "title": "",
+  "title": "Oh! Jesus Me Ama",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Longe do Senhor, andava,",
+        "No caminho de horror,",
+        "Por Jesus não perguntava,",
+        "Nem queria o Seu amor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh! por que Jesus me ama?",
+        "Eu não posso t’explicar!",
+        "Mas, a ti também te chama,",
+        "Pois deseja te salvar!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No juízo não pensava,",
+        "Nem na minha perdição,",
+        "Nem minh’alma desejava",
+        "A eterna Salvação."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já cansado do pecado,",
+        "Fui aos pés do Salvador,",
+        "E ali, caiu o fardo",
+        "De tristezas e de dor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como é maravilhoso.",
+        "Pertencer ao meu Jesus!",
+        "Ter a graça, o repouso,",
+        "E ficar ao pé da cruz!"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

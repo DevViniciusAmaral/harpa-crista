@@ -1,12 +1,53 @@
 {
   "number": 161,
-  "title": "",
+  "title": "Navegando Pra Terra Celeste",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Pra terra celeste meu barco andará,",
+        "Ali, onde os santos já estão;",
+        "Findando a noite, manhã romperá;",
+        "Então, os remidos entrarão."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sim, vou pelas terras, pelos mares também,",
+        "Alerta, Jesus me guiará; Ele prometeu a mim,",
+        "Nunca deixar-me no mundo, porém,",
+        "Sim, levar-me ao porto, co’alegria sem fim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Será jubiloso esse dia pra mim,",
+        "Em que eu chegar ao céu de luz;",
+        "Que paz e descanso, com Deus, lá sem fim!",
+        "Saúdo-Te já, ó meu Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó mundo que jazes no vil tentador",
+        "Não quero jamais em ti morar,",
+        "P'ra festa celeste eu vou com fervor,",
+        "Louvares a Cristo irei cantar!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amigos, lembrai-vos que o naufragar",
+        "É fácil p’ra qualquer um de vós;",
+        "Convite, p’ras bodas, Jesus vos quer dar;",
+        "Lugar há bastante para nós."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.Car Joel Carlson",
   "observation": "Pode ser que tenha outro co-autor"
 }

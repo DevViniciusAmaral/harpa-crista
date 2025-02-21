@@ -1,12 +1,53 @@
 {
   "number": 154,
-  "title": "",
+  "title": "Doce Nome de Jesus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Oh! doce nome de Jesus!",
+        "Que belo é a Ti cantar,",
+        "Co'a alma cheia proclamar",
+        "O nome bom de Jesus!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, ó meu doce Rei!",
+        "Jesus, verdadeiro Deus!",
+        "Jesus, sempre louvarei",
+        "De coração, Teu nome."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adoro o nome de Jesus;",
+        "Jamais me falta Seu amor,",
+        "E põe, à parte, minha dor,",
+        "O nome bom de Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tão puro o nome de Jesus!",
+        "Que meu pesar pôde tirar.",
+        "A grata paz também me dá",
+        "O nome bom de Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No doce nome de Jesus,",
+        "A minha alma salva está,",
+        "E nEle tu te salvarás;",
+        "No nome bom de Jesus."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

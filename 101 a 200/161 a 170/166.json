@@ -1,12 +1,53 @@
 {
   "number": 166,
-  "title": "",
+  "title": "Deixa Entrar o Rei da Glória",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ouves tu? Jesus te chama",
+        "Sim, te chama, ó pecador!",
+        "A Jesus, que salva e ama,",
+        "Vem agora, sem temor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Deixa entrar o Rei da glória",
+        "Em ti mesmo, ó pecador;",
+        "Quem é este Rei da glória?",
+        "É Jesus o teu Senhor"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Para o mundo e o pecado",
+        "Tens no coração lugar,",
+        "Mas Jesus ressuscitado,",
+        "Tu não podes abrIgar?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do prazer, a vista linda,",
+        "Deste mundo sedutor,",
+        "Sim, um dia aqui se finda,",
+        "Com a morte, ó pecador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoje é dia aceitável",
+        "Para vires t’entregar",
+        "A Jesus, que mui amável,",
+        "Quer, e pode te salvar"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,42 @@
 {
   "number": 165,
-  "title": "",
+  "title": "A Armadura Cristã",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ao bom Combate vamos, repletos de amor,",
+        "Vestidos de justiça, ferventes no Senhor;",
+        "Co’os lombos bem cingidos de verdadeira luz,",
+        "Calçados do Evangelho do Salvador Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "De Deus, a armadura - de Cristo, o valor,",
+        "irmão meu, segura - p’ra seres vencedor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da fé, o escudo, que pode vos salvar",
+        "Dos dardos inflamados, que vem vos atirar",
+        "O grande inimigo, o astuto tentador",
+        "Que sempre vos procura tragar, Com seu furor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entrai no bom combate, em nome do Senhor",
+        "Com zelo, com coragem, unidos em amor;",
+        "O inimigo, breve, assim, se vencerá,",
+        "E sob os pés nossos .Jesus nô-lo porá."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

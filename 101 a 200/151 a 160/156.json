@@ -1,12 +1,61 @@
 {
   "number": 156,
-  "title": "",
+  "title": "A Ovelha Perdida",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "O bom Pastor buscou-me",
+        "Já longe do redil,",
+        "E com ternura achou-me,",
+        "Caído, triste, vil!",
+        "As chagas com amor pensou,",
+        "E ao lar nos braços me levou."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sim, Jesus amou-me,",
+        "Com amor buscou-me,",
+        "Ele mesmo restaurou-me a Deus;",
+        "Por Seu sangue, restaurou-me a Deus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seguiu-me, bem distante",
+        "Do Seu lugar, no céu,",
+        "E disse, em voz amante:",
+        "'Achei-te, tu és Meu'.",
+        "Jamais senti tão grande amor",
+        "Como este do meu bom Pastor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por Ele sou querido,",
+        "Que graça singular!",
+        "Pois Ele foi ferido,",
+        "A fim de me salvar;",
+        "Assim, ovelha dEle sou,",
+        "E com o Seu rebanho vou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prossigo alegre agora;",
+        "Deus dá poder cabal",
+        "E graça salvadora;",
+        "Protege-me do mal,",
+        "O bom Pastor comigo está,",
+        "Meus passos Ele guiará."
+      ]
     }
   ],
-  "author": "",
+  "author": "Desconhecido",
   "observation": "Pode ser que tenha outro co-autor"
 }

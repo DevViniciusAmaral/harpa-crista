@@ -1,12 +1,53 @@
 {
   "number": 133,
-  "title": "",
+  "title": "No Rol do livro",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Teu nome, por inteiro, escrito está nos céus",
+        "No livro do Cordeiro, no livro do bom Deus,",
+        "Teremos a vitória, olhando no Senhor;",
+        "Por isso, damos glórias e gran louvor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Teu nome escrito, irmão, está por Deus,",
+        "No livro da vida, no rol dos filhos Seus,",
+        "Teu nome escrito, irmão, está nos céus;",
+        "Oh! glória, aleluia! Amém."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alegres nós andamos na graça do Senhor;",
+        "E nela nós achamos poder consolador!",
+        "De Cristo recebemos, ajuda e vigor;",
+        "Avante, pois marchemos, sem mais temor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nós criaturas, somos remidas por Jesus,",
+        "No qual eleitos fomos, pra desfrutar a luz,",
+        "Nós temos, por herança, Jesus nos altos céus,",
+        "Também a esperança de ver a Deus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Contentes, levantemos os olhos para os céus,",
+        "Escritos nós já temos, os nomes, lá por Deus;",
+        "Sentindo grande gozo, servindo ao Senhor,",
+        "Ao Todo-poderoso, ao Redentor."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

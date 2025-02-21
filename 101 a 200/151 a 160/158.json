@@ -1,12 +1,44 @@
 {
   "number": 158,
-  "title": "",
+  "title": "Que Farás de Jesus Cristo?",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Diante de Pilatos 'stá Jesus,",
+        "Por todos deixado em aflição,",
+        "O qual pergunta à multidão...",
+        "-'Que farei de Jesus Cristo?'"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Que farás de Jesus Cristo?",
+        "Responde, hoje, sim;",
+        "Diria um dia ao vê-Lo:",
+        "Que fará Ele de mim?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em julgamento ainda está",
+        "O Nazareno em aflição,",
+        "E se repete a pergunta, então:",
+        "-'Que farei de Jesus Crlsto?'"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Será julgado Jesus por ti,",
+        "Ou recebido com gratidão?",
+        "E, mui alegre, dirás, então:",
+        "-'Aceito a Jesus Cristo!'"
+      ]
     }
   ],
-  "author": "",
+  "author": "F.V Frida Vingren",
   "observation": "Pode ser que tenha outro co-autor"
 }

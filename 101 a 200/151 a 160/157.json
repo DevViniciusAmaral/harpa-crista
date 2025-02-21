@@ -1,12 +1,44 @@
 {
   "number": 157,
-  "title": "",
+  "title": "Cristo, em Breve, Vem!",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "O dia vem, a clarear,",
+        "Já fugiu a noite, brilha a luz dalém;",
+        "Um grito soa: aprontar!",
+        "Cristo, em breve, vem!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Qual forte vendaval, rugindo Sobre o mar,",
+        "Escuta-se a mensagem, que do céu provém;",
+        "Ouvi a grande nova, que alegria traz;",
+        "'Cristo, em breve, vem!'"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó povos, tribos e nações",
+        "Que escravizados no pecado estais,",
+        "Ó preparei os corações!",
+        "Oh! Por que demorais?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da morte queiram acordar;",
+        "Trevas e pecados. é luz, hão de fugir;",
+        "Em breve iremos encontrar",
+        "Crista, que há de vir."
+      ]
     }
   ],
-  "author": "",
+  "author": "E.J Erik Janson",
   "observation": "Pode ser que tenha outro co-autor"
 }

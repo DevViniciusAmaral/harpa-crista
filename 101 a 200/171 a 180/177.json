@@ -1,12 +1,53 @@
 {
   "number": 177,
-  "title": "",
+  "title": "Salvo Estou",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Salvo estou, Jesus comprou-me",
+        "Do pecado e perdição;",
+        "Com Seu 'spírito já selou-me",
+        "Deu-me paz no coração."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glória, glória, aleluia,",
+        "Já acheis salvação;",
+        "Glória, glória, aleluia,",
+        "Cristo deu-me redenção."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei com alegria,",
+        "Jubiloso som do céu.",
+        "Louvarei com harmonia",
+        "A Jesus. o amado meu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mensagem gloriosa",
+        "Duma eterna salvação,",
+        "Forte, sim, e poderosa,",
+        "Digna é de aceitação."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao chegar o fim da lida,",
+        "Me recebes, Salvador;",
+        "Me concede eterna vida,",
+        "No Teu reino de amor."
+      ]
     }
   ],
-  "author": "",
+  "author": "F.V Frida Vingren",
   "observation": "Pode ser que tenha outro co-autor"
 }

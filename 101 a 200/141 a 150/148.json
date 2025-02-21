@@ -1,12 +1,62 @@
 {
   "number": 148,
-  "title": "",
+  "title": "Bendirei a Jesus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Louvarei meu Guia sábio,",
+        "Louvarei, louvarei;",
+        "Bendirei, com alma e lábios,",
+        "Bendirei Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aleluia! Louvo a Jesus!",
+        "Deu-me salvação na cruz!",
+        "Aleluia a quem me conduz!",
+        "Glória a meu Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvarei a quem me ampara,",
+        "Louvarei, louvarei;",
+        "Nada dEle me separa;",
+        "Bendirei Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A quem leva os meus cuidados,",
+        "Louvarei, louvarei;",
+        "Me sustenta os pés cansados,",
+        "Bendirei Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A quem dá-me aqui vitória,",
+        "Louvarei, louvarei;",
+        "Dar-me-à coroa e glória;",
+        "Bendirei Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu sublime Rei glorioso,",
+        "Louvarei, louvarei;",
+        "Em celeste coro e gozo.",
+        "Bendirei Jesus."
+      ]
     }
   ],
-  "author": "",
+  "author": "E.W Ernesto Wootton",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,53 @@
 {
   "number": 123,
-  "title": "",
+  "title": "Cristo Voltará",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Um dia, Cristo voltará;",
+        "Ao ascender, o prometeu;",
+        "Do modo que subiu virá;",
+        "Há de ver o Rei Jesus, o povo Seu."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mui breve sim, Jesus virá,",
+        "Alegre O verá Seu povo;",
+        "Velando, todos devem sempre estar,",
+        "A fim de vê-Lo voltar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os mensageiros do Senhor,",
+        "Afirmam que Jesus virá;",
+        "E o poder Consolador",
+        "As fiéis promessas nos revelará."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! gozo sem comparação",
+        "No dia do meu Salvador,",
+        "Com a mui grande multidão,",
+        "Subiremos ao encontro do Senhor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem-vindo sejas, meu Senhor,",
+        "Em Tua gloriosa luz;",
+        "E nossa fá terá valor;",
+        "Nós dizemos: “Ora, vem Senhor Jesus”."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

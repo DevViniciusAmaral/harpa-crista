@@ -1,12 +1,53 @@
 {
   "number": 106,
-  "title": "",
+  "title": "Viva Cristo",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Viva Cristo, eternal riqueza,",
+        "Meu escudo, vida e firmeza,",
+        "Sua graça - Oh! me faça",
+        "Reluzir no Seu amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viva Cristo, rocha já eleita,",
+        "A verdade pura e perfeita;",
+        "Meu sustento - gran contento,",
+        "Que me faz andar na luz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viva Cristo, minha eterna sorte;",
+        "Meu tesouro é depois da morte;",
+        "Me conforta, me exorta",
+        "A viver em perfeição."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viva Cristo, o Senhor da glória,",
+        "Que aos crentes sempre dá vitória,",
+        "E a vida prometida,",
+        "Que, p'ra nós ganhou na cruz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viva Cristo, Condutor dos santos!",
+        "Viva Cristo, fortemente canto!",
+        "Pois me ama e derrama",
+        "No meu ser, celeste paz."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

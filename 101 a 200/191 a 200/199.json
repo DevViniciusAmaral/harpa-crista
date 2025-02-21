@@ -1,12 +1,35 @@
 {
   "number": 199,
-  "title": "",
+  "title": "A Ceia do Senhor",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        Senhor, reunidos aqui
+A fim da Tua morte lembrar;
+Partindo este pão nos lembramos de Ti,
+Até que nos venhas buscar.
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        O cálice que vamos beber,
+É símbolo do sangue Teu,
+Do qual nunca devemos nos esquecer;
+Por ele nós temos o céu.
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        Faz-nos sempre dignos, Senhor,
+Da Tua divinal comunhão;
+Do Teu corpo e sangue purificador
+Que nos dá veraz salvação.
+      ]
     }
   ],
-  "author": "",
+  "author": "E.C Emílio Conde",
   "observation": "Pode ser que tenha outro co-autor"
 }

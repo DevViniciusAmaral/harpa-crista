@@ -1,12 +1,53 @@
 {
   "number": 171,
-  "title": "",
+  "title": "Um Pecador Remido",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Era um pecador, andava sem Jesus,",
+        "Não tinha esperança, nem divina luz;",
+        "Hoje sou remido, Cristo me salvou,",
+        "Co’o Seu sangue me lavou!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Que amor me concedeu Jesus,",
+        "Gozo santo e celeste luz;",
+        "Cristo, breve, do céu descerá,",
+        "E consigo, então, me levará."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Consolador já veio em mim morar,",
+        "A Palavra santa veio iluminar;",
+        "Quero ser guiado por tão clara luz,",
+        "Que a Cristo me conduz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, Jesus amado, vem sem demorar,",
+        "Eu estou ansioso pra no céu entrar;",
+        "Vem sem mais tardança, faz raiar a luz,",
+        "'Ora vem, Senhor Jesus'"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queres, pecador, gozar a salvação?",
+        "Vem a Cristo, hoje, receber perdão,",
+        "Cristo te aceita, pobre pecador,",
+        "Nos Seus braços de amor!"
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

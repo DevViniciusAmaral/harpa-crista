@@ -1,12 +1,53 @@
 {
   "number": 179,
-  "title": "",
+  "title": "Redentor Formoso",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Redentor formoso e belo,",
+        "Que habitas em alvor;",
+        "Na minh'alma eu anelo",
+        "De ser como és Tu, Senhor"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Té que um dia vá, remido,",
+        "No céu eu ver o Redentor!",
+        "Depois que eu tiver cumprido",
+        "O Seu querer, por Seu amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os meus olhos, ó retira,",
+        "Deste mundo de horror,",
+        "Pois minh’alma em Ti remira",
+        "Tua graça e Teu favor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já a noite se avança;",
+        "Bela estrela vai nascer,",
+        "Temos nós a esperança",
+        "Dum eterno e gran prazer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tua mão, ó me sustente,",
+        "Humilhado aos Teus pés,",
+        "Com a alma e com a mente,",
+        "Pela verdadeira fé."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

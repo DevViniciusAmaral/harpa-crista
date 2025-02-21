@@ -1,12 +1,53 @@
 {
   "number": 141,
-  "title": "",
+  "title": "Guia-me Sempre, Meu Senhor",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Aonde guiar-me meu Senhor,",
+        "Eu seguirei, por Seu amor;",
+        "É Sua mão que me conduz,",
+        "Por mim ferida sobre a cruz."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Guia-me sempre, meu Senhor,",
+        "Guia meus passos, Salvador;",
+        "Tu me compraste sobre a cruz;",
+        "Rege-me em tudo, meu Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Acho prazer em Te seguir;",
+        "Descanso e paz me faz sentir;",
+        "Doce é a mim o Teu querer,",
+        "Gozo me traz Te obedecer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sigo sem medo o meu Senhor",
+        "Que me encheu do Seu amor;",
+        "Sentindo perto a Sua mão,",
+        "Posso cantar na escuridão."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Para Seu reino me conduz,",
+        "Pelo jardim e pela cruz;",
+        "Lá ficou morto o velho 'eu',",
+        "Lá meu espírito reviveu."
+      ]
     }
   ],
-  "author": "",
+  "author": "E.W Ernesto Wootton",
   "observation": "Pode ser que tenha outro co-autor"
 }

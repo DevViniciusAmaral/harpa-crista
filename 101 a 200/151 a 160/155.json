@@ -1,12 +1,60 @@
 {
   "number": 155,
-  "title": "",
+  "title": "Imploramos Teu Poder",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Imploramos, nosso Salvador,",
+        "Teu poder; Teu poder, Teu poder,",
+        "Divinal, poder renovador,",
+        "Teu poder, Teu poder, Teu poder.",
+        "Bendita promessa paternal!",
+        "Vem encher-nos de real valor,",
+        "Do pleno poder celestial,",
+        "Teu poder, Teu poder, Teu poder."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com o óleo, sim, vem nos ungir,",
+        "Teu poder, Teu poder, Teu poder.",
+        "Pai celeste, faze-nos fruir",
+        "Teu poder, Teu poder, Teu poder.",
+        "Tu já prometeste derramar",
+        "Tuas bênçãos e nos revestir.",
+        "Pra Tua Palavra proclamar,",
+        "Com poder, com poder, com poder."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com o fogo vem nos inflamar,",
+        "Teu poder, Teu poder, Teu poder.",
+        "E de toda a mancha nos limpar,",
+        "Teu poder, Teu poder, Teu poder.",
+        "Aquece os frios, ó Senhor;",
+        "Faze os que dormem despertar.",
+        "Nós te suplicamos com fervor,",
+        "Teu poder, Teu poder, Teu poder."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como a brisa, queiras assoprar",
+        "Teu poder, Teu poder. Teu poder.",
+        "Deus bendito, vem nos outorgar",
+        "Teu poder, Teu poder, Teu poder.",
+        "Perene e doce comunhão,",
+        "Quero aqui contigo, ó Pai, gozar;",
+        "Depressa nos enche o coração",
+        "Com poder, com poder, com poder."
+      ]
     }
   ],
-  "author": "",
+  "author": "A.S Almeida Sobrinho",
   "observation": "Pode ser que tenha outro co-autor"
 }

@@ -1,12 +1,53 @@
 {
   "number": 140,
-  "title": "",
+  "title": "A Segurança do Crente",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "De mal nenhum eu temerei,",
+        "Em mim está Jesus:",
+        "Jamais perturbação terei,",
+        "Pois vivo já na luz."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sinto paz mui profunda enfim,",
+        "Sinto paz proveniente da cruz,",
+        "Pela fé sinto viver em mim,",
+        "Meu Jesus, meu Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus me trouxe salvação;",
+        "Também, me disse assim:",
+        "Me busca na tribulação,",
+        "Pra teres paz em Mim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na grande festa do perdão,",
+        "No Seu real poder,",
+        "Me concedeu admissão,",
+        "Quem quis por mim morrer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já tenho uma viva fé,",
+        "Que não confundirá;",
+        "O amor de Deus, que puro é,",
+        "De paz me encherá."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

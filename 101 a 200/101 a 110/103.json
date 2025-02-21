@@ -1,12 +1,53 @@
 {
   "number": 103,
-  "title": "",
+  "title": "Caminhemos na Luz",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Há uma luz, bendita luz,",
+        "Que vem a nós dos céus;",
+        "A face do Senhor Jesus",
+        "Reflete o amor de Deus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Caminhemos na luz",
+        "Caminhemos na luz de Deus.",
+        "Caminhemos na luz",
+        "Caminhemos na luz de Deus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há uma gloriosa luz",
+        "Guiando o nosso andar,",
+        "Nos santos passos de Jesus,",
+        "‘Tó chegarmos ao lar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há uma luz, a santa luz",
+        "Na qual podemos ver",
+        "No lindo céu, a glória à flux,",
+        "Que vamos receber."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em santa e bendita luz.",
+        "Cercado de esplendor,",
+        "Virá O que morreu na cruz,",
+        "Nosso amado Senhor."
+      ]
     }
   ],
-  "author": "",
+  "author": "A.S Almeida Sobrinho",
   "observation": "Pode ser que tenha outro co-autor"
 }

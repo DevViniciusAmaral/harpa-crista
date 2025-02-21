@@ -1,12 +1,44 @@
 {
   "number": 110,
-  "title": "",
+  "title": "Clama: Jesus, Jesus!",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ó clama na tribulação: Jesus, Jesus.",
+        "De todo o teu coração: Jesus, Jesus,",
+        "Por certo, te socorrerá: Jesus, Jesus,",
+        "E gozo e paz te dará: Jesus, Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu queres um bom Salvador? Jesus, Jesus,",
+        "Que ama o vil pecador? Jesus, Jesus,",
+        "E que tem poder p’ra salvar? Jesus, Jesus,",
+        "E para o céu te levar? Jesus, Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há um que te pode curar: Jesus, Jesus.",
+        "E da corrupção te guardar: Jesus. Jesus.",
+        "Só um nome dá salvação: Jesus, Jesus.",
+        "O gozo, a paz, o perdão: Jesus, Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aceita, no teu coração: Jesus, Jesus;",
+        "Assim, tu terás salvação, Jesus, Jesus;",
+        "Abraça, com terno amor: Jesus, Jesus;",
+        "Que chora por ti, pecador, Jesus, Jesus."
+      ]
     }
   ],
-  "author": "",
+  "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
 }

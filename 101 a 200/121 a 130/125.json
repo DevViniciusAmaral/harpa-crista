@@ -1,12 +1,56 @@
 {
   "number": 125,
-  "title": "",
+  "title": "Quem Dera Hoje Vir!",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Vem, outra vez, nosso Salvador;",
+        "Quem dera hoje vir!",
+        "Para reinar com poder e amor!",
+        "Quem dera hoje vir!",
+        "Já por Sua Esposa, vem esta vez;",
+        "Que O espera em oração;",
+        "Fora do mundo de entremez;",
+        "Quem dera hoje vir!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glória, glória, gozo sem fim, trará;",
+        "Glória, glória, ao coroar o fiei;",
+        "Glória, glória, nos arrebatará;",
+        "Glória, glória! Cristo vem Outra vez!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Terminará o poder do mal;",
+        "Quem dera hoje ser!",
+        "Começará o prazer sem igual;",
+        "Quem dera hoje ser!",
+        "Todos os mortos em Cristo serão",
+        "Arrebatados por seu Senhor;",
+        "Quando estas glórias aqui virão?",
+        "Quem dera hoje ser!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em santidade nos deve achar,",
+        "Eis quEle pode vir.",
+        "Todos, velando, com gozo e paz,",
+        "Eis quEle pode vir.",
+        "Multiplicados os sinais estão;",
+        "No oriente se vê o alvor;",
+        "Breve, os crentes subirão;",
+        "Quem dera hoje vir!"
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }

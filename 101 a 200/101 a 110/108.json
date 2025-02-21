@@ -1,12 +1,53 @@
 {
   "number": 108,
-  "title": "",
+  "title": "Pelejar Por Jesus",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Por Jesus vamos pelejar,",
+        "Prosseguindo o nosso andar;",
+        "E com Ele, então, no céu,",
+        "Nós iremos a paz gozar."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lutemos todos contra o mal,",
+        "E vamos a Jesus seguir;",
+        "Ele é o nosso General",
+        "E a glória do porvir!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em Jesus temos nós poder;",
+        "Avancemos, já sem temer;",
+        "Confiando no Seu amor.",
+        "Vamos lutar, até vencer."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crentes, para Jesus olhai,",
+        "Pela fé, sempre, sim, lutai;",
+        "Ao inimigo, ó combatei;",
+        "O Evangelho anunciei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Escritura nos diz assim:",
+        "Que Jesus é p'ra ti e mim,",
+        "O caminho, a luz veraz,",
+        "Que nos leva ao céu, enfim."
+      ]
     }
   ],
-  "author": "",
+  "author": "J.T.L José T. De Lima",
   "observation": "Pode ser que tenha outro co-autor"
 }
