@@ -1,12 +1,55 @@
 {
   "number": 201,
-  "title": "",
+  "title": "A Decisão",
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Oh! Dia alegre! Eu abracei",
+        "Jesus, e nEle salvação!",
+        "O gozo deste coração",
+        "Eu mais e mais publicarei."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dia feliz! Dia feliz!",
+        "Quando em Jesus me satisfiz!",
+        "Jesus me ensina a vigiar.",
+        "E confiante nEle, orar,",
+        "Dia feliz! Dia feliz!",
+        "Quando em Jesus me satisfiz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Completa a grande transação,",
+        "Jesus é meu, eu do Senhor!",
+        "Chamou-me a voz do Seu amor;",
+        "Cedi à imensa atração."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Descansa, ó alma! O Salvador",
+        "E teu sustento, o pão dos céus;",
+        "E quem possui o eterno Deus,",
+        "Resiste a todo o tentador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu sacro voto, excelso Deus,",
+        "De dia em dia afirmarei!",
+        "E além da morte exultarei,",
+        "Teu filho e súdito dos céus."
+      ]
     }
   ],
-  "author": "",
+  "author": "K Kalley",
   "observation": "Pode ser que tenha outro co-autor"
 }
