@@ -4,43 +4,60 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Inda há lugar, p’ra ti, ó pecador!",
+        "Ouve o convite do teu Salvador.",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
     },
-
-    1
-Inda há lugar, p’ra ti, ó pecador!
-Ouve o convite do teu Salvador.
-Entra, entra, ‘inda há pra ti lugar.
-
-2
-A tua vida breve vai findar,
-As sombras crescem, onde vais morar?
-Entra, entra, ‘inda há pra ti lugar.
-
-3
-Eis lá no céu, Jesus nos preparou
-Bodas festivas, e nos convidou,
-Entra, entra, ‘inda há pra ti lugar.
-
-4
-A multidão que salva lá já está,
-Vem, pois t’espera a ela te ajuntar.
-Entra, entra, ‘inda há pra ti lugar.
-
-5
-Vês tu a porta aberta por Jesus?
-Ele te chama, vem pra Sua luz;
-Entra, entra, ‘inda há pra ti lugar.
-
-6
-Enche-se a sala, vem sem demorar;
-Quem se descuida, perde o seu lugar;
-Entra, entra, ‘inda há pra ti lugar.
-
-7
-Ali se encontra gozo, paz sem fim,
-Glória te espera; a luta terá fim.
-Entra, entra, ‘inda há pra ti lugar.
+    {
+      "type": "verse",
+      "lines": [
+        "A tua vida breve vai findar,",
+        "As sombras crescem, onde vais morar?",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis lá no céu, Jesus nos preparou",
+        "Bodas festivas, e nos convidou,",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A multidão que salva lá já está,",
+        "Vem, pois t’espera a ela te ajuntar.",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vês tu a porta aberta por Jesus?",
+        "Ele te chama, vem pra Sua luz;",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enche-se a sala, vem sem demorar;",
+        "Quem se descuida, perde o seu lugar;",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ali se encontra gozo, paz sem fim,",
+        "Glória te espera; a luta terá fim.",
+        "Entra, entra, ‘inda há pra ti lugar."
+      ]
+    }
   ],
   "author": "J.A.S J.A.S",
   "observation": "Pode ser que tenha outro co-autor"

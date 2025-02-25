@@ -4,13 +4,13 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
-    },
-
-    Ao Pai, ao Filho, o Redentor,
-Ao divinal Consolador;
-Ao trino Deus, sim, adorai,
-Louvor eterno tributai. Amém.
+      "lines": [
+        "Ao Pai, ao Filho, o Redentor,",
+        "Ao divinal Consolador;",
+        "Ao trino Deus, sim, adorai,",
+        "Louvor eterno tributai. Amém."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

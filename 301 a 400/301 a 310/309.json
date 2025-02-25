@@ -4,23 +4,28 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Finda a lida deste dia, ó bendito Salvador;",
+        "Eis-nos todos reunidos a cantar o Teu louvor;",
+        "Vem encher-nos do Teu santo e doce amor!"
+      ]
     },
-
-    1
-Finda a lida deste dia, ó bendito Salvador;
-Eis-nos todos reunidos a cantar o Teu louvor;
-Vem encher-nos do Teu santo e doce amor!
-
-2
-A leitura da Palavra, vem, Senhor, abençoar,
-E no coração dos crentes Teus ensinos vem gravar.
-Tuas bênçãos continua a derramar!
-
-3
-Congregados nos achamos constrangidos pelo amor
-Que emana do Teu nome, ó amado Salvador;
-Aprendendo no Teu livro, ó Senhor! Amém.
+    {
+      "type": "verse",
+      "lines": [
+        "A leitura da Palavra, vem, Senhor, abençoar,",
+        "E no coração dos crentes Teus ensinos vem gravar.",
+        "Tuas bênçãos continua a derramar!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Congregados nos achamos constrangidos pelo amor",
+        "Que emana do Teu nome, ó amado Salvador;",
+        "Aprendendo no Teu livro, ó Senhor! Amém."
+      ]
+    }
   ],
   "author": "A.T.G Antônio Torres da Silva",
   "observation": "Pode ser que tenha outro co-autor"
