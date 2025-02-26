@@ -4,38 +4,49 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Noutro tempo, sei como eu andei,",
+        "Do pecado sob o véu,",
+        "Mas do céu raiou e em mim entrou",
+        "A luz do glorioso céu."
+      ]
     },
-
-    1
-Noutro tempo, sei como eu andei,
-Do pecado sob o véu,
-Mas do céu raiou e em mim entrou
-A luz do glorioso céu.
-
-Em meu coração a luz raiou
-Desde a glória, pois Jesus me amou;
-E agora vivo sempre alegre,
-Depois que luz do céu raiou!
-
-
-2
-E poder me dá, que só vem de lá,
-De Jesus, que me salvou;
-E eu vivo aqui, a louvar a Deus,
-Que minh’alma libertou.
-
-3
-O descanso entrou e o lutar findou,
-Com Jesus, meu Salvador;
-Seu amor sem fim revelado a mim,
-Enche-me de paz e amor.
-
-4
-Vou morar, então, na feliz Sião,
-Com meu Salvador Jesus,
-Para sempre ali, gozarei prazer
-Lá na gloriosa luz.
+    {
+      "type": "chorus",
+      "lines": [
+        "Em meu coração a luz raiou",
+        "Desde a glória, pois Jesus me amou;",
+        "E agora vivo sempre alegre,",
+        "Depois que luz do céu raiou!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E poder me dá, que só vem de lá,",
+        "De Jesus, que me salvou;",
+        "E eu vivo aqui, a louvar a Deus,",
+        "Que minh’alma libertou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O descanso entrou e o lutar findou,",
+        "Com Jesus, meu Salvador;",
+        "Seu amor sem fim revelado a mim,",
+        "Enche-me de paz e amor."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vou morar, então, na feliz Sião,",
+        "Com meu Salvador Jesus,",
+        "Para sempre ali, gozarei prazer",
+        "Lá na gloriosa luz."
+      ]
+    }
   ],
   "author": "H.E.N Hedwig Elisabeth Nordlund",
   "observation": "Pode ser que tenha outro co-autor"

@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Perto, sim, mui perto está,",
+        "O dia não tardará;",
+        "Iremos nós residir",
+        "Com Jesus, que há de vir."
+      ]
     },
-
-    1
-Perto, sim, mui perto está,
-O dia não tardará;
-Iremos nós residir
-Com Jesus, que há de vir.
-
-2
-Oh! Quanta glória há de ser,
-Se Cristo hoje descer,
-Pois os fiéis em Jesus,
-Gozarão eterna luz!
-
-3
-Que glória imensa, sem par,
-Havemos nós de gozar
-Ao lado, sim, do Senhor,
-Nosso amado Salvador!
-
-4
-Devemos, pois, esperar,
-E ao mundo olhos fechar;
-Andemos sempre na luz,
-A buscar o Rei Jesus.
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Quanta glória há de ser,",
+        "Se Cristo hoje descer,",
+        "Pois os fiéis em Jesus,",
+        "Gozarão eterna luz!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que glória imensa, sem par,",
+        "Havemos nós de gozar",
+        "Ao lado, sim, do Senhor,",
+        "Nosso amado Salvador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Devemos, pois, esperar,",
+        "E ao mundo olhos fechar;",
+        "Andemos sempre na luz,",
+        "A buscar o Rei Jesus."
+      ]
+    }
   ],
   "author": "L.F Luiz V. Ferreira",
   "observation": "Pode ser que tenha outro co-autor"

@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "O caro Salvador, manancial de amor,",
+        "Te sinto em mim!",
+        "Teu gozo a mim virá, jamais me faltará,",
+        "O qual me levará ao céu enfim."
+      ]
     },
-
-    1
-O caro Salvador, manancial de amor,
-Te sinto em mim!
-Teu gozo a mim virá, jamais me faltará,
-O qual me levará ao céu enfim.
-
-2
-Ó caro Salvador, riqueza de amor,
-Vela por mim;
-Tem-me na Tua mão, ó grande Capitão,
-E lutarei, então, contigo assim.
-
-3
-Ó caro Salvador, meu vero intercessor.
-Ora por mim;
-Eu posso então falar, oh! deste amor sem par,
-Que veio me salvar do mundo, sim!
-
-4
-Ó caro Salvador, com Teu poder,
-Senhor, Opera em mim;
-Na senda de valor, repleto de vigor,
-Sem ter nenhum temor, irei assim!
+    {
+      "type": "verse",
+      "lines": [
+        "Ó caro Salvador, riqueza de amor,",
+        "Vela por mim;",
+        "Tem-me na Tua mão, ó grande Capitão,",
+        "E lutarei, então, contigo assim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó caro Salvador, meu vero intercessor.",
+        "Ora por mim;",
+        "Eu posso então falar, oh! deste amor sem par,",
+        "Que veio me salvar do mundo, sim!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó caro Salvador, com Teu poder,",
+        "Senhor, Opera em mim;",
+        "Na senda de valor, repleto de vigor,",
+        "Sem ter nenhum temor, irei assim!"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

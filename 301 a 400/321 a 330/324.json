@@ -4,43 +4,54 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Meu Jesus é o melhor amigo,",
+        "NEle ponho toda a minha fé;",
+        "Minhas chagas quer sarar,",
+        "E minh’alma consolar,",
+        "Oh, Jesus é o melhor amigo!"
+      ]
     },
-
-    1
-Meu Jesus é o melhor amigo,
-NEle ponho toda a minha fé;
-Minhas chagas quer sarar,
-E minh’alma consolar,
-Oh, Jesus é o melhor amigo!
-
-Jesus é o melhor amigo,
-Jesus é o melhor amigo,
-Sempre prestes a ajudar,
-Ele a todos quer salvar,
-Sim, Jesus é o melhor amigo!
-
-
-2
-Meu Jesus é o fiel amigo,
-E me dá Sua força e poder;
-Torna em gozo minha dor,
-Me inspira, dá valor;
-Oh! Jesus é o melhor amigo!
-
-3
-Quando as ondas se embravecem,
-E meu barco querem afundar,
-Ele dá-me calma e paz,
-E bonança sempre traz,
-Sim Jesus é o melhor amigo!
-
-4
-Ele deu a Sua própria vida
-Pra salvar o ímpio pecador;
-Oh! Jamais me quer deixar,
-Nunca me desamparar!
-Sim, Jesus é o melhor amigo!
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus é o melhor amigo,",
+        "Jesus é o melhor amigo,",
+        "Sempre prestes a ajudar,",
+        "Ele a todos quer salvar,",
+        "Sim, Jesus é o melhor amigo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu Jesus é o fiel amigo,",
+        "E me dá Sua força e poder;",
+        "Torna em gozo minha dor,",
+        "Me inspira, dá valor;",
+        "Oh! Jesus é o melhor amigo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando as ondas se embravecem,",
+        "E meu barco querem afundar,",
+        "Ele dá-me calma e paz,",
+        "E bonança sempre traz,",
+        "Sim Jesus é o melhor amigo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele deu a Sua própria vida",
+        "Pra salvar o ímpio pecador;",
+        "Oh! Jamais me quer deixar,",
+        "Nunca me desamparar!",
+        "Sim, Jesus é o melhor amigo!"
+      ]
+    }
   ],
   "author": "Desconhecido",
   "observation": "Pode ser que tenha outro co-autor"

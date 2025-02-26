@@ -4,26 +4,31 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Jesus nos braços me tomou,",
+        "Jesus me deu a paz;",
+        "Agora canto a quem me amou,",
+        "Jesus é minha paz!"
+      ]
     },
-
-    1
-Jesus nos braços me tomou,
-Jesus me deu a paz;
-Agora canto a quem me amou,
-Jesus é minha paz!
-
-2
-Faminto e sedento andei,
-Sem ter descanso, aqui;
-Mas água viva eu aceitei;
-Achei descanso aqui!
-
-3
-Onipotente pra me amar,
-É Cristo, o Rei dos céus;
-Alegremente vou cantar;
-Achei descanso em Deus!
+    {
+      "type": "verse",
+      "lines": [
+        "Faminto e sedento andei,",
+        "Sem ter descanso, aqui;",
+        "Mas água viva eu aceitei;",
+        "Achei descanso aqui!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onipotente pra me amar,",
+        "É Cristo, o Rei dos céus;",
+        "Alegremente vou cantar;",
+        "Achei descanso em Deus!"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

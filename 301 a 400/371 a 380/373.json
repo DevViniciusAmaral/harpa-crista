@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Pecador, que segues no mundo errante",
+        "Sem achar consolação;",
+        "Hoje, vem a Cristo, vem confiante.",
+        "E terás a salvação!"
+      ]
     },
-
-    1
-Pecador, que segues no mundo errante
-Sem achar consolação;
-Hoje, vem a Cristo, vem confiante.
-E terás a salvação!
-
-Ó vem ao teu Salvador,
-Que foi morto sobre a cruz,
-Pois ali, salvou O vil pecador;
-ó vem ao Senhor Jesus!
-
-
-2
-Pecador, se tu sentes em tu’ alma,
-Do pecado a escravidão;
-A Jesus, se vieres, com fé e calma,
-Fruirás de Deus, o perdão.
-
-3
-Pecador aflito e tão doente.
-Vem pra Cristo te curar.
-Vem a Ele hoje humildemente.
-Pois tu'alma quer salvar!
+    {
+      "type": "chorus",
+      "lines": [
+        "Ó vem ao teu Salvador,",
+        "Que foi morto sobre a cruz,",
+        "Pois ali, salvou O vil pecador;",
+        "ó vem ao Senhor Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pecador, se tu sentes em tu’ alma,",
+        "Do pecado a escravidão;",
+        "A Jesus, se vieres, com fé e calma,",
+        "Fruirás de Deus, o perdão."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pecador aflito e tão doente.",
+        "Vem pra Cristo te curar.",
+        "Vem a Ele hoje humildemente.",
+        "Pois tu'alma quer salvar!"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

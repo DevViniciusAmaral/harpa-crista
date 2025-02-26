@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Quero sempre, Jesus, receber Tua luz,",
+        "Revestir-me do Consolador;",
+        "E um dia nos céus, junto ao trono de Deus,",
+        "Fruirei abundante amor!"
+      ]
     },
-
-    1
-Quero sempre, Jesus, receber Tua luz,
-Revestir-me do Consolador;
-E um dia nos céus, junto ao trono de Deus,
-Fruirei abundante amor!
-
-Ó Jesus, guarda o meu coração,
-Nele faz Tua eterna habitação,
-Quero sempre Teu nome louvar!
-Pois quiseste minh’alma resgatar!
-
-
-2
-Sob o sangue estarei abrigado da lei,
-Do pecado e da vil tentação;
-Neste sangue há paz, gozo que satisfaz
-E certeza de vem perdão!
-
-3
-Oh! Que consolação eu terei em Sião,
-Vendo a face do meigo Jesus;
-Um eterno louvor eu darei ao Senhor,
-Ao entrar na cidade da luz!
+    {
+      "type": "chorus",
+      "lines": [
+        "Ó Jesus, guarda o meu coração,",
+        "Nele faz Tua eterna habitação,",
+        "Quero sempre Teu nome louvar!",
+        "Pois quiseste minh’alma resgatar!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sob o sangue estarei abrigado da lei,",
+        "Do pecado e da vil tentação;",
+        "Neste sangue há paz, gozo que satisfaz",
+        "E certeza de vem perdão!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que consolação eu terei em Sião,",
+        "Vendo a face do meigo Jesus;",
+        "Um eterno louvor eu darei ao Senhor,",
+        "Ao entrar na cidade da luz!"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

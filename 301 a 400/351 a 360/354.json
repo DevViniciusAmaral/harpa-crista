@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Eu tenho que guardar",
+        "Minh’alma imortal,",
+        "E prepará-la para entrar,",
+        "No reino celestial."
+      ]
     },
-
-    1
-Eu tenho que guardar
-Minh’alma imortal,
-E prepará-la para entrar,
-No reino celestial.
-
-2
-P’ra isto eu fazer,
-Meu Deus, vem me ajudar;
-A Teu serviço, sim, meu ser,
-Te quero consagrar.
-
-3
-Teu filho quero ser,
-De todo coração
-E para sempre obter
-Tua eterna proteção.
-
-4
-Ajuda-me a velar,
-Na fé me firmar bem,
-Pois em Ti posso confiar,
-E descansar também!
+    {
+      "type": "verse",
+      "lines": [
+        "P’ra isto eu fazer,",
+        "Meu Deus, vem me ajudar;",
+        "A Teu serviço, sim, meu ser,",
+        "Te quero consagrar."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teu filho quero ser,",
+        "De todo coração",
+        "E para sempre obter",
+        "Tua eterna proteção."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ajuda-me a velar,",
+        "Na fé me firmar bem,",
+        "Pois em Ti posso confiar,",
+        "E descansar também!"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

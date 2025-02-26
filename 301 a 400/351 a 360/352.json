@@ -4,29 +4,34 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Ó Jesus, nossa esperança,",
+        "Vide santa - nós os ramos;",
+        "Com fervor e confiança,",
+        "Vera graça Te rogamos,",
+        "Ó Salvador."
+      ]
     },
-
-    1
-Ó Jesus, nossa esperança,
-Vide santa - nós os ramos;
-Com fervor e confiança,
-Vera graça Te rogamos,
-Ó Salvador.
-
-2
-Nossos corações contritos
-A Ti nós apresentamos.
-Vem lavá-los, Jesus Cristo.
-Com Teu sangue, suplicamos,
-Ó Salvador.
-
-3
-Aos que Tu tens resgatado,
-Mais e mais os purifica.
-Já que os tens pra luz chamado
-Suas almas santifica,
-Ó Salvador.
+    {
+      "type": "verse",
+      "lines": [
+        "Nossos corações contritos",
+        "A Ti nós apresentamos.",
+        "Vem lavá-los, Jesus Cristo.",
+        "Com Teu sangue, suplicamos,",
+        "Ó Salvador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aos que Tu tens resgatado,",
+        "Mais e mais os purifica.",
+        "Já que os tens pra luz chamado",
+        "Suas almas santifica,",
+        "Ó Salvador."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

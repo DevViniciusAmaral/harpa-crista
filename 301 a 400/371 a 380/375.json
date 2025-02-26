@@ -4,38 +4,49 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Na rocha firme, triunfal.",
+        "Está a Igreja universal;",
+        "Fundada foi por Ti, Jesus,",
+        "Ao expirares lá na cruz."
+      ]
     },
-
-    1
-Na rocha firme, triunfal.
-Está a Igreja universal;
-Fundada foi por Ti, Jesus,
-Ao expirares lá na cruz.
-
-Com Teu poder, enche meu ser;
-Ó Deus de amor, dá-me fervor;
-Remido estou, Teu filho sou,
-Com Teu poder, ó vem me encher.
-
-
-2
-A graça imensa do bom Deus,
-Lugar me deu, de filho Seu,
-Com plena paz no coração,
-Amor veraz, e salvação.
-
-3
-Eis, pedra viva agora sou;
-No templo Seu me colocou;
-Do corpo Seu, um membro sou,
-O sangue Seu me consagrou.
-
-4
-Na rocha, não vai se abalar,
-A Tua Igreja e vencerá;
-Quando este mundo se acabar,
-Contigo, ela reinará.
+    {
+      "type": "chorus",
+      "lines": [
+        "Com Teu poder, enche meu ser;",
+        "Ó Deus de amor, dá-me fervor;",
+        "Remido estou, Teu filho sou,",
+        "Com Teu poder, ó vem me encher."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A graça imensa do bom Deus,",
+        "Lugar me deu, de filho Seu,",
+        "Com plena paz no coração,",
+        "Amor veraz, e salvação."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis, pedra viva agora sou;",
+        "No templo Seu me colocou;",
+        "Do corpo Seu, um membro sou,",
+        "O sangue Seu me consagrou."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na rocha, não vai se abalar,",
+        "A Tua Igreja e vencerá;",
+        "Quando este mundo se acabar,",
+        "Contigo, ela reinará."
+      ]
+    }
   ],
   "author": "J.A.S J.A.S",
   "observation": "Pode ser que tenha outro co-autor"

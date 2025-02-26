@@ -4,40 +4,51 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Os dons do céu prometidos,",
+        "Pai esperamos aqui;",
+        "Em santo amor reunidos,",
+        "Nós suplicamos a Ti."
+      ]
     },
-
-    1
-Os dons do céu prometidos,
-Pai esperamos aqui;
-Em santo amor reunidos,
-Nós suplicamos a Ti.
-
-Manda, ó Senhor, chuvas dos céus;
-Chuvas do Consolador,
-Manda dos céus, ó bom Deus!
-Manda, ó Senhor, chuvas dos céus,
-Que nos dão sempre vigor;
-Manda-nos lá, ó bom Deus!
-
-
-2
-Manda-nos chuvas constantes,
-Chuvas do Consolador;
-Chuvas, sim, mas abundantes,
-Chuvas de vida e de amor!
-
-3
-O Teu poder esperamos,
-O glorioso Senhor!
-Dos altos céus aguardamos
-Chuvas do Consolador!
-
-4
-Pai abençoa os crentes
-Que sempre estão a buscar
-A Tua face, tementes;
-Chuvas, lhes queiras mandar.
+    {
+      "type": "chorus",
+      "lines": [
+        "Manda, ó Senhor, chuvas dos céus;",
+        "Chuvas do Consolador,",
+        "Manda dos céus, ó bom Deus!",
+        "Manda, ó Senhor, chuvas dos céus,",
+        "Que nos dão sempre vigor;",
+        "Manda-nos lá, ó bom Deus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Manda-nos chuvas constantes,",
+        "Chuvas do Consolador;",
+        "Chuvas, sim, mas abundantes,",
+        "Chuvas de vida e de amor!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Teu poder esperamos,",
+        "O glorioso Senhor!",
+        "Dos altos céus aguardamos",
+        "Chuvas do Consolador!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai abençoa os crentes",
+        "Que sempre estão a buscar",
+        "A Tua face, tementes;",
+        "Chuvas, lhes queiras mandar."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
