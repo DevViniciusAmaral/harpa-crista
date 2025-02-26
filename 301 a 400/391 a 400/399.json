@@ -4,34 +4,42 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Deste mundo, sim, além, há um país de luz;",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?",
+        "Onde as trevas não se vêem,",
+        "pois brilha ali Jesus;",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?"
+      ]
     },
-
-    1
-Deste mundo, sim, além, há um país de luz;
-Oh! Não queres ir lá? Oh! Não queres ir lá?
-Onde as trevas não se vêem,
-pois brilha ali Jesus;
-Oh! Não queres ir lá? Oh! Não queres ir lá?
-
-Terra de Jesus, terra de amor!
-Oh! Não queres ir lá? Oh! Não queres Ir iá?
-Onde brilha a luz do meu Salvador;
-Oh! Não queres Ir lá? Oh! Não queres Ir lá?
-
-
-2
-Pelas portas de fulgor, não pode o mal entrar;
-Oh! Não queres ir lá? Oh! Não queres ir lá?
-Nem a morte, luto ou dor, no céu terão lugar,
-Oh! Não queres ir lá? Oh! Não queres ir lá?
-
-3
-Oh! Que divina! mansão Jesus nos preparou!
-Oh! Não queres ir lá? Oh! Não queres ir lá?
-Onde todos os irmãos
-vão ver quem os salvou,
-Oh! Não queres ir lá? Oh! Não queres ir lá?
+    {
+      "type": "chorus",
+      "lines": [
+        "Terra de Jesus, terra de amor!",
+        "Oh! Não queres ir lá? Oh! Não queres Ir iá?",
+        "Onde brilha a luz do meu Salvador;",
+        "Oh! Não queres Ir lá? Oh! Não queres Ir lá?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelas portas de fulgor, não pode o mal entrar;",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?",
+        "Nem a morte, luto ou dor, no céu terão lugar,",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que divina! mansão Jesus nos preparou!",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?",
+        "Onde todos os irmãos",
+        "vão ver quem os salvou,",
+        "Oh! Não queres ir lá? Oh! Não queres ir lá?"
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

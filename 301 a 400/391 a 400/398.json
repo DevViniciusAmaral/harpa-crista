@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Desejo estar em um lugar",
+        "Mui perto do meu Redentor;",
+        "Ali eu posso descansar,",
+        "Por Seu amparo e Seu amor."
+      ]
     },
-
-    1
-Desejo estar em um lugar
-Mui perto do meu Redentor;
-Ali eu posso descansar,
-Por Seu amparo e Seu amor.
-
-Mui perto do meu Redentor,
-Seguro abrigo encontrarei;
-Me guardará do tentador,
-Assim eu nada temerei.
-
-
-2
-Ninguém me poderá tirar
-A paz que frui o coração;
-Jesus bondoso vai me dar
-A mais segura proteção.
-
-3
-Tristezas, nem temor terei,
-Estando perto de Jesus;
-Envolto sempre me verei,
-Com Seu fulgor, com Sua luz.
+    {
+      "type": "chorus",
+      "lines": [
+        "Mui perto do meu Redentor,",
+        "Seguro abrigo encontrarei;",
+        "Me guardará do tentador,",
+        "Assim eu nada temerei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ninguém me poderá tirar",
+        "A paz que frui o coração;",
+        "Jesus bondoso vai me dar",
+        "A mais segura proteção."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tristezas, nem temor terei,",
+        "Estando perto de Jesus;",
+        "Envolto sempre me verei,",
+        "Com Seu fulgor, com Sua luz."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

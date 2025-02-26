@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Na cruz do Calvário olhando,",
+        "Avistei o Salvador;",
+        "Meu pecado expiando,",
+        "Revelou-se o Seu amor."
+      ]
     },
-
-    1
-Na cruz do Calvário olhando,
-Avistei o Salvador;
-Meu pecado expiando,
-Revelou-se o Seu amor.
-
-Lá na fonte desta luz,
-que me trouxe um clarão,
-Foi onde eu achei abrigo,
-vida, paz e salvação.
-
-
-2
-Vi Jesus crucificado
-A sofrer tão grande dor,
-Foi Seu sangue derramado
-Pelo pobre pecador.
-
-3
-Ó Cordeiro imaculado,
-Que morreste sobre a cruz!
-Livra-me do vil pecado,
-Ó meu Salvador Jesus!
+    {
+      "type": "chorus",
+      "lines": [
+        "Lá na fonte desta luz,",
+        "que me trouxe um clarão,",
+        "Foi onde eu achei abrigo,",
+        "vida, paz e salvação."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vi Jesus crucificado",
+        "A sofrer tão grande dor,",
+        "Foi Seu sangue derramado",
+        "Pelo pobre pecador."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Cordeiro imaculado,",
+        "Que morreste sobre a cruz!",
+        "Livra-me do vil pecado,",
+        "Ó meu Salvador Jesus!"
+      ]
+    }
   ],
   "author": "J.P.Q João P. Queiroz",
   "observation": "Pode ser que tenha outro co-autor"

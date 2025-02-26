@@ -4,32 +4,40 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Tua justiça eu quero cumprir,",
+        "Alegremente me vou batizar",
+        "Por imersão, para Cristo seguir",
+        "E meus pecados, assim sepultar."
+      ]
     },
-
-    1
-Tua justiça eu quero cumprir,
-Alegremente me vou batizar
-Por imersão, para Cristo seguir
-E meus pecados, assim sepultar.
-
-Lava-me, lava-me, ó Deus de amor,
-No sangue puro de Cristo Jesus;
-Torna minh’alma mais alva que a luz,
-No sangue puro de Cristo Jesus.
-
-
-2
-Quando das águas eu ressuscitar,
-Já criação nova sou em Jesus;
-Posso e Ele servir e honrar,
-Por crer na obra sublime da cruz.
-
-3
-Com toda força, meu bom Salvador,
-Teu santo nome eu invocarei,
-Para que eu vá de valor em valor,
-Ao céu de luz, onde descansarei.
+    {
+      "type": "chorus",
+      "lines": [
+        "Lava-me, lava-me, ó Deus de amor,",
+        "No sangue puro de Cristo Jesus;",
+        "Torna minh’alma mais alva que a luz,",
+        "No sangue puro de Cristo Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando das águas eu ressuscitar,",
+        "Já criação nova sou em Jesus;",
+        "Posso e Ele servir e honrar,",
+        "Por crer na obra sublime da cruz."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com toda força, meu bom Salvador,",
+        "Teu santo nome eu invocarei,",
+        "Para que eu vá de valor em valor,",
+        "Ao céu de luz, onde descansarei."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"

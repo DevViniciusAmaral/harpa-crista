@@ -4,38 +4,49 @@
   "data": [
     {
       "type": "verse",
-      "lines": []
+      "lines": [
+        "Sinto que vivo no Senhor,",
+        "Que veio me salvar;",
+        "E Sua lei, por Seu amor,",
+        "Desejo sempre guardar."
+      ]
     },
-
-    1
-Sinto que vivo no Senhor,
-Que veio me salvar;
-E Sua lei, por Seu amor,
-Desejo sempre guardar.
-
-Habitarei sempre em Jesus,
-Firmá-Lo-ei no coração;
-Deus, pela fé, em mim produz
-Perfeição!
-
-
-2
-Sinto que vivo no Senhor,
-Em liberdade já,
-Jesus me cobre de favor,
-Repouso sempre me dá.
-
-3
-Sinto que vivo no Senhor,
-Na rocha eternal,
-Que me sustenta com vigor,
-Nas tempestades do mal.
-
-4
-Sinto que vivo no Senhor.
-E sempre viverei;
-Por Seu poder consolador,
-Em Deus permanecerei.
+    {
+      "type": "chorus",
+      "lines": [
+        "Habitarei sempre em Jesus,",
+        "Firmá-Lo-ei no coração;",
+        "Deus, pela fé, em mim produz",
+        "Perfeição!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinto que vivo no Senhor,",
+        "Em liberdade já,",
+        "Jesus me cobre de favor,",
+        "Repouso sempre me dá."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinto que vivo no Senhor,",
+        "Na rocha eternal,",
+        "Que me sustenta com vigor,",
+        "Nas tempestades do mal."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinto que vivo no Senhor.",
+        "E sempre viverei;",
+        "Por Seu poder consolador,",
+        "Em Deus permanecerei."
+      ]
+    }
   ],
   "author": "P.L.M Paulo Leivas Macalão",
   "observation": "Pode ser que tenha outro co-autor"
